@@ -144,33 +144,32 @@ Sesuaikan tag form dengan menambahkan ecrypt type seperti berikut:
 ```
 php spark serve
 ```
-![Screenshot 2025-03-24 222718](https://github.com/user-attachments/assets/a6f5c24d-ee1d-4649-a87d-ae3b55eda40f)
-
+![Tampilan php spark serve](https://github.com/user-attachments/assets/9acba521-43af-4e46-bf76-50e4d316f725)
 
 ## Dokumentasi
 ### Tampilan Codeigniter 4
-![Screenshot (82)](https://github.com/user-attachments/assets/542d8071-45e0-4e6c-b2a5-ec2111664931)
+![Tampilan Codeigniter 4](https://github.com/user-attachments/assets/37c89892-8638-42cf-ae53-11cb78b72b0d)
 ### Tampilan jika error
-![Screenshot (80)](https://github.com/user-attachments/assets/bbe1d3ec-09e7-41fc-a286-996741dbc50e)
+![Tampilan Error](https://github.com/user-attachments/assets/4b7aef2f-b3db-4f82-aaab-4be822d0eb22)
 ### Halaman Home
-![Screenshot (93)](https://github.com/user-attachments/assets/8538106e-9605-4fa7-9020-042d727c6328)
+![Halaman Home](https://github.com/user-attachments/assets/ea8b34f5-28f1-4b21-8017-604bedb2341b)
 ### Halaman Artikel
-![Screenshot (90)](https://github.com/user-attachments/assets/a795541f-bfce-4f9b-b613-d094d12787b1)
+![Halaman Artikel](https://github.com/user-attachments/assets/53121343-6342-4564-ba37-9fbf24c9a31f)
 ### Artikel Detail
-![Screenshot (94)](https://github.com/user-attachments/assets/852dc960-7af3-476b-a86f-df05b9e86b1f)
+![Halaman Artikel Detail](https://github.com/user-attachments/assets/0713bd1a-d6d2-4942-a376-f7fbd38e01d8)
 ### Halaman About 
-![Screenshot (96)](https://github.com/user-attachments/assets/a00d5e81-9364-4253-bcd2-bd808fda48c1)
+![Halaman About](https://github.com/user-attachments/assets/5b410561-3709-4c64-a28f-4890da802f6d)
 ### Halaman Contact
-![Screenshot (95)](https://github.com/user-attachments/assets/44fa33a3-1b26-49a3-b608-4811d9dec7ee)
+![Halaman Contact](https://github.com/user-attachments/assets/7b0db017-c912-4312-a7cf-5ccba67aa86e)
 ### Halaman Admin 
-![Screenshot (91)](https://github.com/user-attachments/assets/61986e62-b450-4e73-969b-a95151f27d88)
+![Halaman Admin](https://github.com/user-attachments/assets/448c2e82-afe4-4d7d-83e5-6ae537b553ba)
 ### Admin Add
-![Screenshot (98)](https://github.com/user-attachments/assets/15bd3527-7c3f-4adf-994e-be1d2171da39)
+![Halaman Add](https://github.com/user-attachments/assets/d8314e02-0b07-41dc-8140-661ccb67ccfa)
 ### Admin Update
-![Screenshot (97)](https://github.com/user-attachments/assets/b8264317-79aa-4693-9dfc-3b8eedb1ee59)
+![Halaman Update](https://github.com/user-attachments/assets/88f03baa-ebbd-4bf9-a9d2-354eaf9c98a4)
 ### Halaman Login
-![Halaman Login](https://github.com/user-attachments/assets/62844d19-ef8d-447e-b2a6-241500f8ef76)
-### Halaman Pencarian
-![Halaman Pencarian](https://github.com/user-attachments/assets/9447f862-ff7c-4a66-8a39-5e42bc254846)
+![Halaman Login](https://github.com/user-attachments/assets/7b7905b1-0f1f-4c62-a491-f65280cc5d76)
+### Halaman Pagination dan Pencarian
+![Halaman Pagination dan Pencarian](https://github.com/user-attachments/assets/8f168af0-e221-4225-853b-8915cf3aeaab)
 ### Halaman Add dengan Gambar
-![Halaman Add dengan gambar](https://github.com/user-attachments/assets/37e7440d-7a47-4fe9-a372-801fc6f2c372)
+![Halaman Add dengan gambar](https://github.com/user-attachments/assets/7a597f62-7b3a-41d3-8867-4966aa932f08)
